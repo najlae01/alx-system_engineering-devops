@@ -1,2 +1,4 @@
 #!/bin/bash
-echo $(ls)
+for file in *; do
+  echo "$(pwd)/$file"
+done
