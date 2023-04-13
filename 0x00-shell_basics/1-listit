@@ -1,2 +1,2 @@
 #!/bin/bash
-for file in *; do echo "$file"; done
+ls -1
