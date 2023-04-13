@@ -1,0 +1,16 @@
+#!/bin/bash
+
+for file in *.html; do
+    if [ -f "../$file" ]; then
+        if [ "$file" -nt "../$file" ]; then
+            cp "$file" "../$file"
+            echo "Copied $file to ../$file"
+        else
+            echo "Skipping $file as newer version already exists in parent directory"
+        fi
+    else
+        cp "$file" "../$file"
+        echo "Copied $file to ../$file"
+    fi
+done
+
