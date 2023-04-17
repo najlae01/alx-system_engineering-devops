@@ -1,5 +1,5 @@
 # Project 0x02. Shell, I/O Redirections and filters 
-## Description This project builds upon previous knowledge with the introduction of I/O Redirections and Special Characters.
+## This project builds upon previous knowledge with the introduction of I/O Redirections and Special Characters.
 
 New commands introduced in this project include: echo, cat, head, tail, find, wc, sort, uniq, grep, tr, rev, cut
 
