@@ -4,7 +4,7 @@
 New commands introduced in this project include:
 `echo`, `cat`, `head`, `tail`, `find`, `wc`, `sort`, `uniq`, `grep`, `tr`, `rev`, `cut`
 
-#### 0. Hello World
+#### 0. [Hello World](https://github.com/najlae01/alx-system_engineering-devops/blob/main/0x02-shell_redirections/0-hello_world)
 Write a script that prints “Hello, World”, followed by a new line to the standard output.
 #### 1. Confused smiley
 Write a script that displays a confused smiley `"(Ôo)'`.
