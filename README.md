@@ -16,7 +16,9 @@ Introduction to input/output redirection, pipes, and filters, which are used to 
 
 ## How to Use
 To run any script in this repository, navigate to the project folder and execute the script using the Bash interpreter. For example, to run the script `script.sh` in the folder `0x00-shell_basics`, enter the following commands in the terminal:
+
 `$ cd 0x00-shell_basics`
+
 `$ ./script.sh`
 
 ## Author :black_nib:
